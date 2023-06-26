@@ -1,7 +1,7 @@
 
 from serviceable import Serviceable
-from engines.engine import Engine
-from batteries.battery import Battery
+from engine.engine import Engine
+from battery.battery import Battery
 
 
 class Car(Serviceable):
